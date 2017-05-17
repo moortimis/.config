@@ -1,11 +1,8 @@
 
-# how to install
+# How to install
+Git clone, then copy the files to your home directory. 
 
-```
-git submodule init
-git submodule update
-./install.sh
-```
+Pretty simple, aye!
 
 Released under the DWTFPL
 No rights reserved.
